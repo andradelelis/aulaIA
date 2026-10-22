@@ -157,6 +157,14 @@
 .reveal .agenda div { border-top: 3px solid var(--verde); padding-top: 9px; }
 .reveal .agenda b { display: block; color: var(--verde-escuro); margin-bottom: 5px; }
 .reveal .compact table { font-size: 24px; }
+.reveal .administrator-slide .administrator-takeaway { font-size: 25px; color: var(--verde-escuro); margin-top: 16px; font-weight: 600; }
+.reveal .administrator-slide .administrator-takeaway p { margin: 0; }
+.reveal .administrator-slide .question { font-size: 25px; margin-top: 14px; padding: 12px 18px; }
+.reveal .administrator-slide .question p { margin: 0; }
+.reveal .administrator-slide .source { margin-top: 14px; }
+.reveal .financial-statements-slide .question { font-size: 25px; margin-top: 14px; padding: 12px 18px; }
+.reveal .financial-statements-slide .question p { margin: 0; }
+.reveal .financial-statements-slide .source { margin-top: 14px; }
 .reveal .compact table th, .reveal .compact table td { padding: 10px 14px; }
 .reveal .risk-slide table th:first-child, .reveal .risk-slide table td:first-child { width: 19%; }
 .reveal .risk-slide table th:nth-child(2), .reveal .risk-slide table td:nth-child(2) { width: 39%; }

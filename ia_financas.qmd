@@ -146,7 +146,7 @@ O que essa combinação pode mudar na forma de analisar informações financeira
 :::
 
 ::: {.source}
-Paráfrase de [Bahoo et al. (2024), Introdução, p. 2](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=2): tecnologia de uso geral e fatores de difusão. [Introdução em PDF local](fontes/bahoo_2024_introducao.pdf).
+Paráfrase de [Bahoo et al. (2024), Introdução, p. 2](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=2): tecnologia de uso geral e fatores de difusão.
 :::
 
 ::: {.notes}
@@ -178,16 +178,12 @@ Detecção de fraudes e conformidade regulatória.
 :::
 :::
 
-::: {.small}
-A revisão destaca uma literatura heterogênea, que dificulta conclusões gerais. Benefícios potenciais convivem com riscos de viés e privacidade.
-:::
-
 ::: {.question}
 Que evidências precisamos para avaliar o uso de IA nessas decisões?
 :::
 
 ::: {.source}
-Aplicações e limites da literatura: [Bahoo et al. (2024), Introdução, p. 3](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=3). Riscos: [Aldasoro et al. (2024), p. 2](https://www.bis.org/publications/working-paper-1194-intelligent-financial-system-how-ai-transforming-finance.pdf#page=5). [Mapa das fontes](contextualizacao_fontes.md).
+Aplicações e limites da literatura: [Bahoo et al. (2024), Introdução, p. 3](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=3). Riscos: [Aldasoro et al. (2024), p. 2](https://www.bis.org/publications/working-paper-1194-intelligent-financial-system-how-ai-transforming-finance.pdf#page=5).
 :::
 
 ::: {.notes}
@@ -213,7 +209,7 @@ Outros usos citados: detecção de fraudes e conformidade regulatória.
 :::
 
 ::: {.source}
-Figura elaborada a partir de [Bahoo et al. (2024), Introdução, pp. 3–4](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=4). Crédito em fintechs: Jagtiani e John (2018), citados pelos autores. [Texto local](fontes/bahoo_2024_introducao.pdf).
+Figura elaborada a partir de [Bahoo et al. (2024), Introdução, pp. 3–4](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=4). Crédito em fintechs: Jagtiani e John (2018), citados pelos autores.
 :::
 
 ::: {.notes}
@@ -913,7 +909,7 @@ Regulação depende da jurisdição e do uso. Governança acompanha todo o ciclo
 Slide 22 · 4 min. Não afirmar que a LGPD exige consentimento como única base legal: a base depende do tratamento. Art. 20 refere-se a decisões unicamente automatizadas e à revisão; o texto vigente não contém a exigência geral “por pessoa natural” que apareceu em redação anterior. Revisão humana é uma recomendação de governança nesta aula, e pode estar prevista em políticas ou outras obrigações. A aplicação concreta exige avaliar o contexto jurídico. Não apresentar projeto de lei como lei vigente, nem afirmar que existe um único regime global. NIST AI RMF 1.0 é usado como referência publicada em 2023; as funções não são quatro etapas lineares ou checklist obrigatório. Governar atravessa mapear, medir e gerenciar. Perguntar quem deve poder suspender um modelo de crédito quando o desempenho piora.
 :::
 
-## O administrador na era da IA
+## O administrador na era da IA {.administrator-slide}
 
 ::: {.kicker}
 06 · Desafios e futuro
@@ -937,6 +933,12 @@ Comunicar limites, proteger informações e assumir responsabilidade.<br><br>Def
 ::: {.question}
 Você usaria a análise da Petrobras para decidir? Cite **um benefício, um limite e uma verificação indispensável**.
 :::
+
+::: {.administrator-takeaway}
+A IA pode melhorar a qualidade das decisões, mas somente quando o administrador é capaz de avaliar criticamente as informações que ela produz.
+:::
+
+
 
 ::: {.source}
 Trabalho e produtividade: [Eisfeldt e Schubert (2025)](https://doi.org/10.1146/annurev-financial-112923-020503). Efeitos variam por tarefa, organização e controles; exposição à IA não equivale a eliminação de empregos.
