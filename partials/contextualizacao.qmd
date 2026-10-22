@@ -1,0 +1,78 @@
+## Por que a IA ganhou espaço?
+
+::: {.kicker}
+01 · Contextualização · Bahoo et al. (2024)
+:::
+
+::: {.lead}
+A IA é frequentemente tratada como tecnologia de uso geral.
+:::
+
+::: {.grid3}
+::: {.card}
+<h3>Dados</h3>
+Disponibilidade de grandes bases, inclusive não estruturadas.
+:::
+::: {.card}
+<h3>Computação</h3>
+Expansão da capacidade de processamento.
+:::
+::: {.card}
+<h3>Investimento</h3>
+Capital de risco para projetos tecnológicos.
+:::
+:::
+
+::: {.question}
+O que essa combinação pode mudar na forma de analisar informações financeiras?
+:::
+
+::: {.source}
+Paráfrase de [Bahoo et al. (2024), Introdução, p. 2](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=2): tecnologia de uso geral e fatores de difusão. [Introdução em PDF local](fontes/bahoo_2024_introducao.pdf).
+:::
+
+::: {.notes}
+Slide 2 · 3 min. Apresentar os três fatores (1 min) e ouvir a turma sobre a pergunta (2 min). As respostas dos estudantes são hipóteses para discussão, não resultados empresariais. Localização: página 2, primeiro parágrafo e parágrafo sobre os fatores de desenvolvimento e difusão. As referências citadas pelos autores nesses trechos são Bresnahan e Trajtenberg (1995) e Ernst et al. (2018); a leitura usada nesta aula é a revisão de Bahoo et al., não uma consulta independente desses trabalhos. Mapa dos trechos em contextualizacao_fontes.md.
+:::
+
+## Por que estudar IA em Finanças?
+
+::: {.kicker}
+01 · Contextualização · Bahoo et al. (2024)
+:::
+
+::: {.lead}
+Instituições financeiras dependem de dados e automação.
+:::
+
+::: {.grid3}
+::: {.card}
+<h3>Crédito e risco</h3>
+Análise de crédito e previsão de falência.
+:::
+::: {.card}
+<h3>Investimentos</h3>
+Gestão de carteiras e negociação algorítmica.
+:::
+::: {.card}
+<h3>Controle</h3>
+Detecção de fraudes e conformidade regulatória.
+:::
+:::
+
+::: {.small}
+A revisão destaca uma literatura heterogênea, que dificulta conclusões gerais. Benefícios potenciais convivem com riscos de viés e privacidade.
+:::
+
+::: {.question}
+Que evidências precisamos para avaliar o uso de IA nessas decisões?
+:::
+
+::: {.source}
+Aplicações e limites da literatura: [Bahoo et al. (2024), Introdução, p. 3](https://link.springer.com/content/pdf/10.1007/s43546-023-00618-x.pdf#page=3). Riscos: [Aldasoro et al. (2024), p. 2](https://www.bis.org/publications/working-paper-1194-intelligent-financial-system-how-ai-transforming-finance.pdf#page=5). [Mapa das fontes](contextualizacao_fontes.md).
+:::
+
+::: {.notes}
+Slide 3 · 3 min. Percorrer as aplicações listadas pelos autores (1 min) e discutir a pergunta (2 min). Os três cartões organizam aplicações expressamente mencionadas na introdução; não são uma taxonomia atribuída ao artigo. Ler a página 3 do extrato e distinguir a lista de usos de uma avaliação de eficácia. A coleta da revisão vai até março de 2021 (resumo e metodologia, pp. 1 e 5). Não usar a data de publicação de 2024 como se fosse a data final dos estudos examinados. O trecho complementar sobre riscos está na página impressa 2 do artigo do BIS, correspondente à página 5 do PDF integral. Mapa dos trechos em contextualizacao_fontes.md.
+:::
+

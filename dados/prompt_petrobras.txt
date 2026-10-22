@@ -1,0 +1,11 @@
+Você é assistente de análise financeira. Use apenas o BP, a DRE e a DFC consolidados da Petrobras 2024 anexados, em US$ milhões, com comparativos de 2023.
+
+1. Extraia as contas usadas; cite demonstrativo, página e unidade. Se um dado faltar, escreva “não localizado”.
+2. Calcule liquidez corrente (AC/PC), margem líquida (lucro do exercício/receita) e variação da receita (2024/2023 − 1). Mostre fórmula e valores.
+3. Concilie o caixa inicial e final de 2024 usando os fluxos operacional, de investimento, de financiamento e o efeito cambial.
+4. Separe fatos, hipóteses e limitações. Proponha três perguntas para as notas explicativas. Não atribua causas sem evidência nem recomende comprar ou vender ações.
+
+Anexos: petrobras_2024_demonstracoes.pdf e petrobras_2024_recorte.csv.
+As páginas impressas são F-3 (BP), F-4 (DRE) e F-6 (DFC).
+Elas correspondem às páginas 344, 345 e 347 do PDF original; no extrato, às páginas 1, 2 e 3.
+O CSV é uma transcrição parcial para conferência. O PDF contém os demonstrativos integrais, e as notas explicativas estão no Form 20-F completo.

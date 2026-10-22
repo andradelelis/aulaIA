@@ -1,0 +1,10 @@
+.tools/
+.quarto/
+_freeze/
+__pycache__/
+*.py[cod]
+.verificacao-temporaria/
+verificacao/
+dist/
+.DS_Store
+Thumbs.db

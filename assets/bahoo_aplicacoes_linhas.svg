@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Aplicações de IA e dez linhas de pesquisa em finanças</title>
+<desc id="desc">Três aplicações em destaque na revisão: previsão e projeções; classificação, detecção e alerta antecipado; análise de big data, mineração de dados e de textos. As dez linhas de pesquisa são apresentadas em conjunto, sem atribuição exclusiva a uma aplicação.</desc>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+<g fill="#e8f4e9" stroke="#99bfa2" stroke-width="1.5">
+<rect x="1" y="2" width="382" height="82" rx="10"/><rect x="409" y="2" width="382" height="82" rx="10"/><rect x="817" y="2" width="382" height="82" rx="10"/>
+</g>
+<g fill="#185c2b" font-size="23" font-weight="600">
+<text x="192" y="36"><tspan x="192">Previsão e</tspan><tspan x="192" dy="29">projeções</tspan></text>
+<text x="600" y="36"><tspan x="600">Classificação, detecção</tspan><tspan x="600" dy="29">e alerta antecipado</tspan></text>
+<text x="1008" y="27"><tspan x="1008">Análise de big data;</tspan><tspan x="1008" dy="25">mineração de dados</tspan><tspan x="1008" dy="25">e de textos</tspan></text>
+</g>
+<path d="M192 87V107H1008V87M600 87V129" fill="none" stroke="#237a36" stroke-width="2"/>
+<path d="m594 122 6 8 6-8" fill="none" stroke="#237a36" stroke-width="2"/>
+<text x="600" y="157" fill="#185c2b" font-size="23" font-weight="600">10 linhas de pesquisa identificadas na revisão</text>
+<g fill="#f4f8f4" stroke="#cddfce" stroke-width="1.2">
+<rect x="1" y="179" width="230" height="65" rx="8"/><rect x="243" y="179" width="230" height="65" rx="8"/><rect x="485" y="179" width="230" height="65" rx="8"/><rect x="727" y="179" width="230" height="65" rx="8"/><rect x="969" y="179" width="230" height="65" rx="8"/>
+<rect x="1" y="257" width="230" height="65" rx="8"/><rect x="243" y="257" width="230" height="65" rx="8"/><rect x="485" y="257" width="230" height="65" rx="8"/><rect x="727" y="257" width="230" height="65" rx="8"/><rect x="969" y="257" width="230" height="65" rx="8"/>
+</g>
+<g fill="#25372a" font-size="21">
+<text x="116" y="205"><tspan x="116">Mercado</tspan><tspan x="116" dy="25">de ações</tspan></text>
+<text x="358" y="205"><tspan x="358">Modelos de</tspan><tspan x="358" dy="25">negociação</tspan></text>
+<text x="600" y="205"><tspan x="600">Previsão de</tspan><tspan x="600" dy="25">volatilidade</tspan></text>
+<text x="842" y="205"><tspan x="842">Gestão de</tspan><tspan x="842" dy="25">carteiras</tspan></text>
+<text x="1084" y="205"><tspan x="1084">Desempenho, risco</tspan><tspan x="1084" dy="25">e inadimplência</tspan></text>
+<text x="116" y="295">Criptomoedas</text>
+<text x="358" y="295">Derivativos</text>
+<text x="600" y="283"><tspan x="600">Risco de crédito</tspan><tspan x="600" dy="25">nos bancos</tspan></text>
+<text x="842" y="283"><tspan x="842">Sentimento dos</tspan><tspan x="842" dy="25">investidores</tspan></text>
+<text x="1084" y="295">Gestão cambial</text>
+</g></g>
+</svg>
